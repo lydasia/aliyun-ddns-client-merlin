@@ -55,3 +55,6 @@ import os
 os.system('/sbin/ddns_custom_updated 0')
 os.system('/sbin/ddns_custom_updated 1')
 ```
+
+# 5. 设置完成
+至此已经设置完成，如果解析记录更新成功，web ui中就不会再显示黄色的警告标志。如果无法成功更新，可以手动运行客户端查看错误信息。
