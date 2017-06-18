@@ -1,0 +1,2 @@
+#!/bin/sh
+cd /opt/aliyun-ddns-client/ && /opt/bin/python /opt/aliyun-ddns-client/ddns.py
