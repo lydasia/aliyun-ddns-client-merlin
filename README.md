@@ -45,7 +45,7 @@ cd /opt/aliyun-ddns-client/ && /opt/bin/python /opt/aliyun-ddns-client/ddns.py
 ```
 
 # 4. 修改ddns.py，以在web ui中显示ddns状态
-引入os模块
+引入os模块：
 ```
 import os
 ```
